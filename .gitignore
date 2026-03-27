@@ -1,0 +1,18 @@
+# Environment and local secrets
+server-setup.env
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.swp
